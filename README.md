@@ -11,4 +11,4 @@ A Cool Haxe Setup for repo
 If you want to install, be sure that run the bat with administrator!
 
 # Credits - Thing i found
-* `setup-msvc-win.bat` by (crowplexus)[https://github.com/crowplexus]
+* `setup-msvc-win.bat` by [crowplexus](https://github.com/crowplexus)
